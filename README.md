@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">A frontend developer, passionate about open source</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinansonmez&label=Profile%20views&color=0e75b6&style=flat" alt="sinansonmez" /> </p>
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 🔭 I’m currently working on [Water Tracker App - Android](https://github.com/sinansonmez/WaterTracker)
