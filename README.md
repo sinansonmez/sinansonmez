@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🔭 I’m currently working on [Water Tracker App - Android](https://github.com/sinansonmez/WaterTracker)
+- 🔭 I’m currently working on [ReportFin](https://github.com/sinansonmez/reportfin) & [Water Tracker App - Android](https://github.com/sinansonmez/WaterTracker)
 
 - 🌱 I’m currently learning **react, redux**
 
