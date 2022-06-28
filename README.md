@@ -36,7 +36,7 @@
 
 <h4 align="left">Mobile:</h3>
 <p align="left">
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="kotlin" width="40" height="40" /> </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="kotlin" width="80" height="40" /> </a>
     <a href="https://www.android.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="android" width="40" height="40" />
     </a>
