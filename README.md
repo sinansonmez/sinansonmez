@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **react, typescript, javascript, java, spring**
+- 💬 Ask me about **golang, java, typescript, and javascript**
 
 - 📫 How to reach me **sinansonmez@outlook.com**
 
